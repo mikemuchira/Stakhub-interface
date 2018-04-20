@@ -1,0 +1,65 @@
+.demo-card.mdl-card{
+	width: auto;
+}
+.right-logo{
+	margin-right: 20%;
+}
+.mdl-card__supporting-text{
+	font-size: 18px;
+}
+.demo-card > .mdl-card__menu{
+	color: #fff;
+}
+.span-title{
+	font-weight: bolder;
+	font-style: italic;
+}
+.welcome-custom-msg{
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+.left-custom-msg{
+	font-size: 18px;
+}
+.custom-mdl-main{
+	text-align: center;
+	font-size: 18px;
+}
+.title-custom-brand{
+	font-style: italic;
+	font-weight: bolder;
+}
+.right-custom-brand{
+	font-style: italic;
+	font-weight: bolder;
+	color: #012C3D;
+}
+.mdl-tabs__panel{
+	margin-left: 30%;
+}
+.mdl-tab{
+	font-size: 18px;
+	word-spacing: 5px;
+	letter-spacing: 3px;
+}
+.mdl-panel{
+	font-size: 18px;
+}
+.admin-upload{
+	margin-left: 30%;
+}
+.admin-window{
+	margin-left: 20%;
+}
+.help-data-table{
+	margin-left: 10%;
+	width: 70%;
+	font-size: 24px;
+}
+.logout-button{
+	text-align: right;
+}
+* a{
+	color: blue;
+}
